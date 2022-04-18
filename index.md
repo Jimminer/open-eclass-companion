@@ -12,8 +12,8 @@ This app is still being tested and more universities are being implemented.
 If you don't see your university in the table below and you would like to help, please send me an email.  
 _(Contact: Dimitris Gkoumas, E-Mail: jimminer2003@gmail.com)_
 
-| University | Site           | Contributor        |
-|------------|----------------|--------------------|
-| UOWM       | eclass.uowm.gr | Dimitris Gkoumas   |
-| TUC        | eclass.tuc.gr  | Lefteris Kalamaras |
-| UOA        | eclass.uoa.gr  | Giorgos Nikolaidis |
+| University | Site                             | Contributor        |
+|------------|----------------------------------|--------------------|
+| UOWM       | [eclass.uowm.gr](eclass.uowm.gr) | Dimitris Gkoumas   |
+| TUC        | [eclass.tuc.gr](eclass.tuc.gr)   | Lefteris Kalamaras |
+| UOA        | [eclass.uoa.gr](eclass.uoa.gr)   | Giorgos Nikolaidis |
