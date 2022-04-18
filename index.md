@@ -3,7 +3,7 @@
 
 ## Downloads
 This app is still being tested and more universities are being implemented.
-If you don't see your university in the table below and you would like to help, please send me an email.
+If you don't see your university in the table below and you would like to help, please send me an email.  
 _(Contact: Dimitrios Gkoumas, E-Mail: jimminer2003@gmail.com)_
 
 | University | Site           |
