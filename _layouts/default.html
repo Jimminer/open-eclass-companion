@@ -6,10 +6,10 @@
 {% seo %}
     <title>Open eClass Companion App</title>
 
-    <link rel="apple-touch-icon" sizes="180x180" href="../assets/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="../assets/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="../assets/favicon-16x16.png">
-    <link rel="manifest" href="../assets/site.webmanifest">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
@@ -17,7 +17,7 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    {% include head-custom.html %}
+    <!-- {% include head-custom.html %} -->
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
@@ -33,8 +33,7 @@
       {% if site.show_downloads %}
         <!-- <a href="{{ site.downloads.windows }}" class="btn" download=>Download .exe (Windows)</a>
         <a href="{{ site.downloads.android }}" class="btn" download=>Download .apk (Android)</a> -->
-        <a href="{{ site.downloads.test1 }}" class="btn" download=>Download test1</a>
-        <a href="{{ site.downloads.test2 }}" class="btn" download=>Download test2</a>
+        <a href="{{ site.downloads.test }}" class="btn" download=>Download test</a>
       {% endif %}
     </header>
 
