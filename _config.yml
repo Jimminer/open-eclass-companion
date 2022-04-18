@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 title: Open eClass Companion App
 description: Made by Dimitris Gkoumas
 
-assets: https://jimminer.github.io/open-eclass-companion/assets
+rootdir: https://jimminer.github.io/open-eclass-companion
 
 links:
   githubprof: https://github.com/Jimminer
