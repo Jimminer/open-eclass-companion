@@ -1,5 +1,18 @@
 theme: jekyll-theme-cayman
-github:
-  is_project_page: false
+
 title: Open eClass Companion App
 description: Made by Dimitris Gkoumas
+
+links:
+  githubprof: https://github.com/Jimminer
+  playstore: https://play.google.com/store
+
+downloads:
+  windows: https://raw.githubusercontent.com/Jimminer/open-eclass-companion/tree/main/windows/test.txt
+  android: https://raw.githubusercontent.com/Jimminer/open-eclass-companion/tree/main/android/test.txt
+
+show_links: true
+show_downloads: true
+
+github:
+  is_project_page: false
