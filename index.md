@@ -1,4 +1,22 @@
-## Test
+## Open eClass Companion App
+**This app is currently designed as a companion to the open eclass site and not as a standalone alternative!**
+
+## Downloads
+This app is still being tested and more universities are being implemented.
+If you don't see your university in the table below and you would like to help, please send me an email. _(Contact: Dimitrios Gkoumas, E-Mail: jimminer2003@gmail.com)_
+
+| University | Site           |
+|------------|----------------|
+| UOWM       | eclass.uowm.gr |
+| UOA        | eclass.uoa.gr  |
+
+## Features
+- Easy to access message/announcement center
+- Notifications for messages, announcements, assignments and excersices
+- Downloads for a course's uploaded files
+- Customizable calendar with notifications (Optional)
+
+<!-- ## Test
 
 You can use the [editor on GitHub](https://github.com/Jimminer/open-eclass-companion/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -34,4 +52,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
