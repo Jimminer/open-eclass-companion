@@ -16,7 +16,7 @@ The app is going to be available for _Windows_ and _Android_ devices. There are 
 ## Downloads
 Downloads are not yet available to the public. The app is still being tested and more universities are being implemented.
  
-## Currently Supported Universities:
+## Currently Supported Universities
 
 | University | Site                                     | Contributor        |
 |------------|------------------------------------------|--------------------|
@@ -29,9 +29,7 @@ I am currently in need of testers for each Greek university that uses open eclas
   
 Your **Name**, Your **University**, Your **Testing Device** _(Windows/Android)_ and preferably a **Discord** username for easy communication.  
   
-<div>
-    <sub><sup>Before sending me an email, please check the <a href=#currently-supported-universities>supported universities</a> to see if your university is already supported.</sup></sub>
-</div>
+_Before sending me an email, please check the [supported universities](#currently-supported-universities) to see if your university is already supported._
 
 ## Contact Info
 **Name**: Dimitris Gkoumas  
