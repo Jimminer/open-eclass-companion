@@ -12,7 +12,6 @@ links:
 downloads:
   windows: https://github.com/Jimminer/open-eclass-companion/releases/download/test/windows.txt
   android: https://github.com/Jimminer/open-eclass-companion/releases/download/test/android.txt
-  test: https://jimminer.github.io/open-eclass-companion/assets/favicon.ico
 
 show_links: true
 show_downloads: true
