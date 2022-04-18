@@ -1,3 +1,3 @@
 # About
 
-Visit () for info.
+Visit https://jimminer.github.io/open-eclass-companion/ for info.
