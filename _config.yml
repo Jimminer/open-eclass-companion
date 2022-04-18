@@ -8,8 +8,8 @@ links:
   playstore: https://play.google.com/store
 
 downloads:
-  windows: https://raw.githubusercontent.com/Jimminer/open-eclass-companion/main/windows/test.txt
-  android: https://raw.githubusercontent.com/Jimminer/open-eclass-companion/main/android/test.txt
+  windows: https://raw.githubusercontent.com/Jimminer/open-eclass-companion/main/windows/test
+  android: https://raw.githubusercontent.com/Jimminer/open-eclass-companion/main/android/test
 
 show_links: true
 show_downloads: true
