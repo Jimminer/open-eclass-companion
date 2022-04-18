@@ -1,56 +1,19 @@
 ## Open eClass Companion App
 **This app is currently designed as a companion to the open eclass site and not as a standalone alternative!**
 
-## Downloads
-This app is still being tested and more universities are being implemented.
-If you don't see your university in the table below and you would like to help, please send me an email.  
-_(Contact: Dimitrios Gkoumas, E-Mail: jimminer2003@gmail.com)_
-
-| University | Site           |
-|------------|----------------|
-| UOWM       | eclass.uowm.gr |
-| UOA        | eclass.uoa.gr  |
-
 ## Features
 - Easy to access message/announcement center
 - Notifications for messages, announcements, assignments and excersices
 - Downloads for a course's uploaded files
 - Customizable calendar with notifications (Optional)
 
-<!-- ## Test
+## Downloads
+This app is still being tested and more universities are being implemented.
+If you don't see your university in the table below and you would like to help, please send me an email.  
+_(Contact: Dimitris Gkoumas, E-Mail: jimminer2003@gmail.com)_
 
-You can use the [editor on GitHub](https://github.com/Jimminer/open-eclass-companion/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jimminer/open-eclass-companion/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
+| University | Site           | Contributor        |
+|------------|----------------|--------------------|
+| UOWM       | eclass.uowm.gr | Dimitris Gkoumas   |
+| TUC        | eclass.tuc.gr  | Lefteris Kalamaras |
+| UOA        | eclass.uoa.gr  | Giorgos Nikolaidis |
