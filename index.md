@@ -29,7 +29,7 @@ I am currently in need of testers for each Greek university that uses open eclas
   
 Your **Name**, your **University**, your **Testing Device** _(Windows/Android)_ and preferably a **Discord** username for easy communication.  
   
-_Before sending me an email, please check the [supported universities](#currently-supported-universities) to see if your university is already supported._
+_Before sending me an email, please check the [supported universities](#currently-supported-universities) above to see if your university is already supported._
 
 ## Contact Info
 **Name**: Dimitris Gkoumas  
