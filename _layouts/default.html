@@ -25,8 +25,8 @@
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
       {% if site.show_links %}
-        <a href="{{ site.links.githubprof }}" class="btn">My Github Profile</a>
-        <a href="{{ site.links.playstore }}" class="btn">Play Store Page</a>
+        <a href="{{ site.links.githubprof }}" target="_blank" class="btn">My Github Profile</a>
+        <a href="{{ site.links.playstore }}" target="_blank" class="btn">Play Store Page</a>
       {% endif %}
       {% if site.show_downloads %}
         <a href="{{ site.downloads.windows }}" class="btn" download=>Download .exe (Windows)</a>
